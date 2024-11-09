@@ -16,8 +16,6 @@ padding: 10%;
 padding-top: 20%;
 width: 200px;
 border-radius: 15%;
-width
-mar
 }
 img{
     width: 20%;
@@ -87,6 +85,9 @@ button{
     text-align: center;
     font-size: 14px;
     /* border-radius: 15%; */
+    border-style: none;
+
+}
     border-style: none;
 
 }
